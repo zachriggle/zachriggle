@@ -1,16 +1,12 @@
-### Hi there 👋
+**About me:**
 
-<!--
-**zachriggle/zachriggle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ Developer, Busticator, and Bourbon aficionado 
+- 🌍 Based in Austin, TX
+- 🛠 Ex-Maintainer of [pwntools](https://pwntools.com) and [pwndbg](https://pwndbg.com)
+- 💼 Security Research & Engineering at Apple
+- 📫 Contact me on: [twitter](https://twitter.com/ebeip90) · [linkedin](https://www.linkedin.com/in/zachriggle/) · [discord](https://discordapp.com/users/701202796137152523/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/zachriggle">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zachriggle&show_icons=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachriggle&layout=compact">
+</a>
