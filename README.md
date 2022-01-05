@@ -2,8 +2,10 @@
 
 - ✨ Washed up hacker, Ḃṵsṫĭȼầṫoṝ, and Bourbon aficionado
 - 🌍 Austin, TX
-- 🛠 Ex-Maintainer of [pwntools](https://pwntools.com) and [pwndbg](https://pwndbg.com)
-- 💼 Apple Security Engineering & Research
+- 🛠 Open Source contributor
+  - [pwntools](https://pwntools.com) exploit development library
+  - [pwndbg](https://pwndbg.com) reverse engineering with GDB made simpe
+- 💼  Apple Security Engineering & Research ([work with me](https://jobs.apple.com/en-us/search?search=security%20engineering%20architecture&sort=relevance&location=united-states-USA))
 - 📫 Contact me on: [twitter](https://twitter.com/ebeip90) · [linkedin](https://www.linkedin.com/in/zachriggle/) · [discord](https://discordapp.com/users/701202796137152523/)
 
 <a href="https://github.com/zachriggle">
