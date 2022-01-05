@@ -1,9 +1,9 @@
 **About me:**
 
-- ✨ Security Dude, Ḃṵsṫĭȼầṫoṝ, and Bourbon aficionado
-- 🌍 Based in Austin, TX
+- ✨ Washed up hacker, Ḃṵsṫĭȼầṫoṝ, and Bourbon aficionado
+- 🌍 Austin, TX
 - 🛠 Ex-Maintainer of [pwntools](https://pwntools.com) and [pwndbg](https://pwndbg.com)
-- 💼 SEAR at Apple
+- 💼 Apple Security Engineering & Research
 - 📫 Contact me on: [twitter](https://twitter.com/ebeip90) · [linkedin](https://www.linkedin.com/in/zachriggle/) · [discord](https://discordapp.com/users/701202796137152523/)
 
 <a href="https://github.com/zachriggle">
