@@ -3,8 +3,8 @@
 - ✨ Washed up hacker, Ḃṵsṫĭȼầṫoṝ, and Bourbon aficionado
 - 🌍 Austin, TX
 - 🛠 Open Source contributor
-  - [pwntools](https://pwntools.com) exploit development library (ex-contributor)
-  - [pwndbg](https://pwndbg.com) reverse engineering with GDB made simple (ex-contributor)
+  - [pwntools](https://pwntools.com) exploit development library (maintainer)
+  - [pwndbg](https://pwndbg.com) reverse engineering with GDB made simple (maintainer)
   - [gatekeeper](https://github.com/samuraictf/gatekeeper) attack-defense CTF mitigations (author)
 - 💼  Apple Security Engineering & Research ([work with me](https://jobs.apple.com/en-us/search?search=security%20engineering%20architecture&sort=relevance&location=united-states-USA))
 - 📫 Contact me on: [twitter](https://twitter.com/ebeip90) · [linkedin](https://www.linkedin.com/in/zachriggle) · [discord](https://discordapp.com/users/701202796137152523/)
